@@ -1,3 +1,6 @@
+extensiones : Indenticator, Subtle Match Brackets
+
+
 {
     "editor.wordWrap": "on",
     "debug.console.wordWrap": true,
