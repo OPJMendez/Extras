@@ -1,5 +1,6 @@
 extensiones : Indenticator, Subtle Match Brackets
 
+php: php intelli, php namesspace, composer
 
 {
     "editor.wordWrap": "on",
@@ -27,5 +28,7 @@ extensiones : Indenticator, Subtle Match Brackets
     "editor.fontSize": 15,
     "editor.lineHeight": 0,
     "workbench.activityBar.visible": true,
-    "workbench.statusBar.visible": false
+    "workbench.statusBar.visible": false,
+	"namespaceResolver.sortAlphabetically": true,
+    "namespaceResolver.sortOnSave": true
 }
